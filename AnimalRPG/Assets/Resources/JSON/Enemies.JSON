@@ -1,0 +1,26 @@
+[
+    {
+        "power": 12,
+        "toughness": 15,
+        "AttackSpeed": 1,
+        "health": 30,
+        "mana": 100,
+        "_class": "Warrior",
+        "level": 10,
+        "characterName": "Evil Guy",
+        "characterSlug": "EvilArcherGuy",
+        "characterModel": "archer_character_lp"
+    },
+    {
+        "power": 18,
+        "toughness": 8,
+        "AttackSpeed": 1,
+        "health": 20,
+        "mana": 100,
+        "_class": "Warrior",
+        "level": 10,
+        "characterName": "Evil Girl",
+        "characterSlug": "EvilArcherGirl",
+        "characterModel": "archer_character_lp"
+    }
+]

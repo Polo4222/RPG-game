@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ItemMenu
+  - QuestMenu
+  - CharacterMenu
+  - InventoryMenu
+  - PlayerHealth
+  - PlayerMana
+  - NPC
+  - DialogueBox
+  - Enemy
+  - EnemyHealthBar
+  - EnemyCombat
+  - TurnText
+  - AttackButton
+  - InventoryButton
+  - DialogueNext
+  - ItemButton
+  - CharacterButton
+  - QuestButton
+  - Blocker
+  - CharacterDName
+  - DBox
+  - ItemDetails
+  - Content
+  - PlayerHand
+  - RandomCombatEncounter
+  - SpellMenu
+  - SpellDetails
+  - SpellContent
+  - SpellButton
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

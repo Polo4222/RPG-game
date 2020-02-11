@@ -1,0 +1,96 @@
+[
+    {
+        "typeOfSpell": "AcidicDeathSlime",
+        "typeOfClassSpell": "Warrior",
+        "spellTarget": "Enemy",
+        "numberOfTargets": 1,
+        "description": "An indescribably attack of death and slime that is acidic",
+        "manaCost": 666,
+        "spellName": "Doomsday Horror Death Slime Attack of Acid",
+        "spellModifier": 0,
+        "isSpellLearned": 0,
+        "levelSpellIsLearned": 100,
+        "Stats": [
+        {
+            "StatType": "SpellPower",
+            "BaseValue": 200,
+            "StatName": "Spell Power"
+        },
+        {
+            "StatType": "SpellSpeed",
+            "BaseValue": 1,
+            "StatName": "Spell Speed"
+        }
+        ]       
+    },
+    {
+        "typeOfSpell": "Healing",
+        "typeOfClassSpell": "Mage",
+        "spellTarget": "Ally",
+        "numberOfTargets": 1,
+        "description": "A healing spell, what else do you expect from it...",
+        "manaCost": 20,
+        "spellName": "Heal",
+        "spellModifier": 0,
+        "isSpellLearned": 0,
+        "levelSpellIsLearned": 11,
+        "Stats": [
+            {
+                "StatType": "SpellPower",
+                "BaseValue": 120,
+                "StatName": "Heal"
+            },
+            {
+                "StatType": "SpellSpeed",
+                "BaseValue": 1,
+                "StatName": "Spell Speed"
+            }
+        ]
+    },
+    {
+        "typeOfSpell": "Fire",
+        "typeOfClassSpell": "Mage",
+        "spellTarget": "Self",
+        "numberOfTargets": 1,
+        "description": "Send a fireball at the enemy face. Nowhere else but the face.",
+        "manaCost": 40,
+        "spellName": "Fireball",
+        "spellModifier": 0,
+        "isSpellLearned": 0,
+        "levelSpellIsLearned": 10,
+        "Stats": [
+            {
+                "StatType": "SpellPower",
+                "BaseValue": 60,
+                "StatName": "Spell Power"
+            },
+            {
+                "StatType": "SpellSpeed",
+                "BaseValue": 1,
+                "StatName": "Spell Speed"
+            }
+        ]
+    },
+    {
+        "typeOfSpell": "Buffing",
+        "typeOfClassSpell": "Mage",
+        "description": "Buffing spell of possibly over buffing",
+        "manaCost": 50,
+        "spellName": "Awesome Buffing Spell Of Overpowered Buffing Buff",
+        "spellModifier": 0,
+        "isSpellLearned": 0,
+        "levelSpellIsLearned": 13,
+        "Stats": [
+            {
+                "StatType": "Power",
+                "BaseValue": 100,
+                "StatName": "Attack Buff"
+            },
+            {
+                "StatType": "Toughness",
+                "BaseValue": 100,
+                "StatName": "Vitality"
+            }
+        ]
+    }
+]
